@@ -1,0 +1,39 @@
+* {
+}
+
+body {
+  background: rgb(233, 232, 232);
+  margin: 0;
+}
+header {
+  padding: 10px;
+}
+h1 {
+  background: white;
+  margin: 0;
+}
+.container {
+  margin: auto;
+  width: 50%;
+  width: 500px;
+}
+.post {
+  background: white;
+  border-radius: 5px;
+
+}
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-self: baseline;
+}
+
+.heading {
+  float: left;
+}
+span {
+  float: right;
+}
+.post img {
+  width: 100%;
+}
